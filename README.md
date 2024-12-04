@@ -48,6 +48,6 @@ Running the code is fairly straightforward, just make sure you do a few things:
 Any contributions are welcome. If you have any ideas to improve the code, feel free to contribute!
 
 ## License
-Add one
+[MIT](https://opensource.org/licenses/MIT)
 
 
